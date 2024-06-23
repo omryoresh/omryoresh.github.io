@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year economics Ph.D. student interested in political economy, labor, and public economics. In my research, I aim to assess the influence of cultural norms and reveal instances of discrimination and their root causes. 
+I'm a first-year economics Ph.D. student at the London School of Economics, interested in political economy, labour, and public economics.
+
+In my research, I aim to assess the influence of cultural norms and reveal instances of discrimination and their root causes. 
 
 ---
 
