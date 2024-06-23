@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,11 @@ I'm a first-year economics Ph.D. student interested in political economy, labor,
 ---
 
 ## Contact Information:
-Department of Economics
+Department of Economics,
+
 London School of Economics and Political Science
+
 Houghton Street
+
 London WC2A 2AE, United Kingdom
 
