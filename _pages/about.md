@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year economics Ph.D. student at the London School of Economics, with a interest in political economy, labour, and public economics.
+I'm a first-year economics Ph.D. student at the London School of Economics, interested in political economy, labour, and public economics.
 
 In my research, I focus on understanding the impact of identity and cultural norms on economic outcomes while revealing instances of discrimination and their underlying causes.
 
