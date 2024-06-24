@@ -16,7 +16,7 @@ Feel free to explore my work and connect with me!
 ---
 
 ## Contact Information:
-Room 5.02, Department of Economics, London School of Economics and Political Science
+Department of Economics, London School of Economics and Political Science
 
 Houghton Street, London WC2A 2AE, United Kingdom
 
