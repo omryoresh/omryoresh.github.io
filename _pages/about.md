@@ -14,7 +14,7 @@ In my research, I aim to assess the influence of cultural norms and reveal insta
 ---
 
 ## Contact Information:
-Department of Economics, London School of Economics and Political Science
+Room 5.02, Department of Economics, London School of Economics and Political Science
 
 Houghton Street, London WC2A 2AE, United Kingdom
 
