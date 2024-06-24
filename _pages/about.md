@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first-year economics Ph.D. student at the London School of Economics, interested in political economy, labour, and public economics.
 
-In my research, I aim to assess the influence of cultural norms and reveal instances of discrimination and their root causes. 
+In my research, I aim to assess the influence of identity and cultural norms to reveal instances of discrimination and their root causes. 
 
 ---
 
